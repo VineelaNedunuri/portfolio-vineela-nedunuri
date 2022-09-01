@@ -9,6 +9,6 @@ I have knowledge in PSO (Particle swarm optimisation) and GA (Genetic Algorithm)
 
 
 ---
+## Contact me : [linkedin]:
+ https://www.linkedin.com/in/vineela-nedunuri-1a811a70/
 
-## Contact me :
-[linkedin]: https://www.linkedin.com/in/vineela-nedunuri-1a811a70/
