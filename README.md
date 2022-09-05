@@ -7,6 +7,12 @@ I have knowledge in PSO (Particle swarm optimisation) and GA (Genetic Algorithm)
 
 
 
+## Repo :
+
+https://www.w3schools.com/python/python_operators.asp
+
+
+
 
 ---
 ## Contact me : [linkedin]:
