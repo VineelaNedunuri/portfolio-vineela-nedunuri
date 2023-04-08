@@ -44,6 +44,6 @@ https://www.w3schools.com/python/python_operators.asp
 
 ## Contact me :iphone:
 
-- [![linkedIn icon](assets/linkedIn.png): LinkdIn][linkedin]
+- [![linkedIn icon](assets/LinkdIn.png): LinkedIn][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/vineela-nedunuri-1a811a70/
